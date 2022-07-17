@@ -1,0 +1,90 @@
+body {
+
+  margin-top:0;
+  text-align: center;
+  font-family: 'Montserrat', cursive;
+    color: #11999E;
+}
+a{
+color: #11999E;
+text-decoration: none;
+font-family: 'Montserrat', cursive
+
+}
+
+.developer-picture{
+height:200px;
+float:left;
+margin-right: 30px;
+}
+
+.tech-support{
+
+  height:200px;
+  float:right;
+  margin-left: 30px;
+
+}
+.skills{
+width: 50%;
+margin: 0 auto 0 auto;
+
+
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+font-weight: bolder;
+  line-height: 2;
+
+}
+
+
+.skill-row{
+  margin:100px auto 100px auto;
+  text-align: left;
+line-height: 2;
+
+}
+h2 {
+  font-family: 'Montserrat', cursive;
+  margin-top:0;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', cursive;
+  font-weight: bolder;
+}
+
+.profile-name {
+  margin: auto auto 0 auto;
+}
+
+
+
+.underlined {
+  text-decoration: underline;
+}
+
+.mountain {
+  height: 55%;
+}
+
+.top-container {
+  height: 500px;
+  background-color: #E7F6F2;
+  padding-top: 100px;
+  position: relative;
+}
+
+.top-cloud {
+  right: 200px;
+  position: absolute;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+}
